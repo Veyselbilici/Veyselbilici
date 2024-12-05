@@ -2,7 +2,7 @@
 - 👀 I’m interested in computer engineer
 - 🌱 I’m currently learning
 - 
-- C#,PHP
+- C#,PHP,C,C++,PYTHON
 - Angular react native
 - ASP.NET
 - 
